@@ -25,7 +25,7 @@ body {
     flex-direction: column;
 }
 
-.botoes{
+.botoes__menu{
     display: flex;
     flex-direction: column;
 }
